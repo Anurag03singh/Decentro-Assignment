@@ -182,9 +182,7 @@ Potential improvements for future versions:
 - Command-line arguments for quick operations
 
 ## 📝 License
+Feel free to use and modify as needed.
 
-This project is created for educational purposes. Feel free to use and modify as needed.
-
----
 
 **Happy Task Tracking! 🎉**
